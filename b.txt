@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Anantachai2544
+=======
+Poinwza007
+>>>>>>> feature2
